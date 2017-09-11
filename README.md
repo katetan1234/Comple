@@ -1,5 +1,7 @@
 # Complexity
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/katetan1234/Comple.svg)](https://greenkeeper.io/)
+
 In this workshop, you'll be implementing simple algorithms for checking basic properties of code complexity.
 
 Two design patterns are of importance here:
